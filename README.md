@@ -1,2 +1,2 @@
 # agile-final-project
-My fibal project Lab
+My final project Lab
